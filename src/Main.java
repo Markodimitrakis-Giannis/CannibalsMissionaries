@@ -57,7 +57,8 @@ public class Main {
                 path.add(state);
                 state = state.getParentS();
             }
-
+//////////////////////////////////////////////////
+            System.out.print("\n Github check");
             int depth = path.size() - 1;
             for (int i = depth; i >= 0; i--) {
                 state = path.get(i);
