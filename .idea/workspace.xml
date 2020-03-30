@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee41b6da-0f80-4ab7-a8aa-3380edb90a4a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Zpwmig2lt6zeEWAiPrOXUzq93x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CannibalsMissionaries" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="State" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="State" />
+      <module name="CannibalsMissionaries" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.State" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee41b6da-0f80-4ab7-a8aa-3380edb90a4a" name="Default Changelist" comment="" />
+      <created>1585549503727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585549503727</updated>
+      <workItem from="1585549511446" duration="6184000" />
+      <workItem from="1585556545092" duration="9448000" />
+      <workItem from="1585570565223" duration="749000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="105" y="53" key="#Project_Structure" timestamp="1585561827678">
+      <screen x="0" y="0" width="1024" height="789" />
+    </state>
+    <state x="105" y="53" key="#Project_Structure/0.0.1024.789@0.0.1024.789" timestamp="1585561827678" />
+    <state x="0" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585562989792">
+      <screen x="0" y="0" width="1024" height="789" />
+    </state>
+    <state x="0" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.789@0.0.1024.789" timestamp="1585562989792" />
+    <state x="293" y="99" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1585562019455">
+      <screen x="0" y="0" width="1024" height="789" />
+    </state>
+    <state x="293" y="99" key="#com.intellij.ide.macro.MacrosDialog/0.0.1024.789@0.0.1024.789" timestamp="1585562019455" />
+    <state x="318" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1585554285865">
+      <screen x="0" y="0" width="1024" height="789" />
+    </state>
+    <state x="318" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1024.789@0.0.1024.789" timestamp="1585554285865" />
+    <state x="242" y="178" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585562988276">
+      <screen x="0" y="0" width="1024" height="789" />
+    </state>
+    <state x="242" y="178" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1024.789@0.0.1024.789" timestamp="1585562988276" />
+    <state width="981" height="198" key="GridCell.Tab.0.bottom" timestamp="1585571346192">
+      <screen x="0" y="0" width="1024" height="789" />
+    </state>
+    <state width="981" height="198" key="GridCell.Tab.0.bottom/0.0.1024.789@0.0.1024.789" timestamp="1585571346192" />
+    <state width="981" height="198" key="GridCell.Tab.0.center" timestamp="1585571346192">
+      <screen x="0" y="0" width="1024" height="789" />
+    </state>
+    <state width="981" height="198" key="GridCell.Tab.0.center/0.0.1024.789@0.0.1024.789" timestamp="1585571346192" />
+    <state width="981" height="198" key="GridCell.Tab.0.left" timestamp="1585571346192">
+      <screen x="0" y="0" width="1024" height="789" />
+    </state>
+    <state width="981" height="198" key="GridCell.Tab.0.left/0.0.1024.789@0.0.1024.789" timestamp="1585571346192" />
+    <state width="981" height="198" key="GridCell.Tab.0.right" timestamp="1585571346192">
+      <screen x="0" y="0" width="1024" height="789" />
+    </state>
+    <state width="981" height="198" key="GridCell.Tab.0.right/0.0.1024.789@0.0.1024.789" timestamp="1585571346192" />
+    <state width="981" height="247" key="GridCell.Tab.1.bottom" timestamp="1585569743741">
+      <screen x="0" y="0" width="1024" height="789" />
+    </state>
+    <state width="981" height="247" key="GridCell.Tab.1.bottom/0.0.1024.789@0.0.1024.789" timestamp="1585569743741" />
+    <state width="981" height="247" key="GridCell.Tab.1.center" timestamp="1585569743741">
+      <screen x="0" y="0" width="1024" height="789" />
+    </state>
+    <state width="981" height="247" key="GridCell.Tab.1.center/0.0.1024.789@0.0.1024.789" timestamp="1585569743741" />
+    <state width="981" height="247" key="GridCell.Tab.1.left" timestamp="1585569743741">
+      <screen x="0" y="0" width="1024" height="789" />
+    </state>
+    <state width="981" height="247" key="GridCell.Tab.1.left/0.0.1024.789@0.0.1024.789" timestamp="1585569743741" />
+    <state width="981" height="247" key="GridCell.Tab.1.right" timestamp="1585569743741">
+      <screen x="0" y="0" width="1024" height="789" />
+    </state>
+    <state width="981" height="247" key="GridCell.Tab.1.right/0.0.1024.789@0.0.1024.789" timestamp="1585569743741" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1585561951433">
+      <screen x="0" y="0" width="1024" height="789" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1024.789@0.0.1024.789" timestamp="1585561951433" />
+    <state x="209" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1585558021574">
+      <screen x="0" y="0" width="1024" height="789" />
+    </state>
+    <state x="209" y="218" key="com.intellij.ide.util.TipDialog/0.0.1024.789@0.0.1024.789" timestamp="1585558021574" />
+    <state x="74" y="130" width="876" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585569113782">
+      <screen x="0" y="0" width="1024" height="789" />
+    </state>
+    <state x="74" y="130" width="876" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1024.789@0.0.1024.789" timestamp="1585569113782" />
+    <state x="0" y="15" key="new project wizard" timestamp="1585569734002">
+      <screen x="0" y="0" width="1024" height="789" />
+    </state>
+    <state x="0" y="15" key="new project wizard/0.0.1024.789@0.0.1024.789" timestamp="1585569734002" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
