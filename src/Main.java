@@ -15,7 +15,7 @@ public class Main {
         do {
             System.out.println("Select something: ");
             System.out.println("1 for BFS ");
-            System.out.println("Exit to EXIT");
+            System.out.println("Type exit to EXIT");
             Scanner scan = new Scanner(System.in);
             choice = scan.nextLine();
             State initialState = new State (3, 0, 3, 0, boatPos.left);
@@ -58,8 +58,8 @@ public class Main {
                 state = state.getParentS();
             }
 
-            int depth = path.size() - 1;
-            for (int i = depth; i >= 0; i--) {
+            int mhkos = path.size() - 1;
+            for (int i = mhkos; i >= 0; i--) {
                 state = path.get(i);
                 if (state.goalState()) {
                     System.out.print(state.toString());
@@ -67,7 +67,7 @@ public class Main {
                     System.out.print(state.toString() + " -> ");
                 }
             }
-            System.out.println("\nDepth: " + depth);
+            System.out.println("\nMhkos monopatiou lushs: " + mhkos);
 
         }
 }

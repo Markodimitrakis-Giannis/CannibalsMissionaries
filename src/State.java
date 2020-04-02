@@ -129,10 +129,5 @@ public List<State> generateSuccessors() {
 
 
 
-    public static void main(String[] args) {
-        State s = new State(0, 3, 0, 3, boatPos.left);
-        boolean x;
-        x=s.goalState();
-        System.out.print(x);
-    }
+
 }
