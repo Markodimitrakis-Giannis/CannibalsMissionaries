@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee41b6da-0f80-4ab7-a8aa-3380edb90a4a" name="Default Changelist" comment="README changes">
+    <list default="true" id="ee41b6da-0f80-4ab7-a8aa-3380edb90a4a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CannibalsMissionaries/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CannibalsMissionaries/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CannibalsMissionaries/State.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CannibalsMissionaries/State.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +81,7 @@
       <workItem from="1585584050753" duration="1063000" />
       <workItem from="1585640531807" duration="765000" />
       <workItem from="1585651446685" duration="611000" />
-      <workItem from="1585818864195" duration="117000" />
+      <workItem from="1585818864195" duration="390000" />
     </task>
     <task id="LOCAL-00001" summary="Update 1">
       <created>1585585064784</created>
@@ -117,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585652060270</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Changes in main Class,and in readme file">
+      <created>1585819164480</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585819164481</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +135,8 @@
     <MESSAGE value="Update 1" />
     <MESSAGE value="Final Version" />
     <MESSAGE value="README changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="README changes" />
+    <MESSAGE value="Changes in main Class,and in readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes in main Class,and in readme file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="105" y="53" key="#Deployment" timestamp="1585641178628">
@@ -162,10 +171,10 @@
       <screen x="0" y="0" width="1024" height="789" />
     </state>
     <state x="242" y="178" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1024.789@0.0.1024.789" timestamp="1585562988276" />
-    <state x="106" y="0" key="CommitChangelistDialog2" timestamp="1585652074887">
+    <state x="106" y="0" key="CommitChangelistDialog2" timestamp="1585819163472">
       <screen x="0" y="0" width="1024" height="789" />
     </state>
-    <state x="106" y="0" key="CommitChangelistDialog2/0.0.1024.789@0.0.1024.789" timestamp="1585652074887" />
+    <state x="106" y="0" key="CommitChangelistDialog2/0.0.1024.789@0.0.1024.789" timestamp="1585819163472" />
     <state x="293" y="136" key="FileChooserDialogImpl" timestamp="1585651526287">
       <screen x="0" y="0" width="1024" height="789" />
     </state>
@@ -210,18 +219,18 @@
       <screen x="0" y="0" width="1024" height="789" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1024.789@0.0.1024.789" timestamp="1585561951433" />
-    <state x="105" y="127" key="Vcs.Push.Dialog.v2" timestamp="1585652049293">
+    <state x="105" y="127" key="Vcs.Push.Dialog.v2" timestamp="1585819175171">
       <screen x="0" y="0" width="1024" height="789" />
     </state>
-    <state x="105" y="127" key="Vcs.Push.Dialog.v2/0.0.1024.789@0.0.1024.789" timestamp="1585652049293" />
+    <state x="105" y="127" key="Vcs.Push.Dialog.v2/0.0.1024.789@0.0.1024.789" timestamp="1585819175171" />
     <state x="209" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1585818862975">
       <screen x="0" y="0" width="1024" height="789" />
     </state>
     <state x="209" y="218" key="com.intellij.ide.util.TipDialog/0.0.1024.789@0.0.1024.789" timestamp="1585818862975" />
-    <state x="322" y="311" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585819128434">
+    <state x="322" y="311" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585819285527">
       <screen x="0" y="0" width="1024" height="789" />
     </state>
-    <state x="322" y="311" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1024.789@0.0.1024.789" timestamp="1585819128434" />
+    <state x="322" y="311" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1024.789@0.0.1024.789" timestamp="1585819285527" />
     <state x="74" y="130" width="876" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585569113782">
       <screen x="0" y="0" width="1024" height="789" />
     </state>
